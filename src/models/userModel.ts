@@ -1,4 +1,3 @@
-import user from "../routes/user";
 import { query } from "../utils/db";
 
 export async function createUser(payload: {
